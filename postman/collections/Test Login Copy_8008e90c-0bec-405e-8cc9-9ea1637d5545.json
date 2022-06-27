@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "9453fd9e-8143-4464-bd52-7baa2d708685",
 		"name": "Test Login Copy",
+		"description": "> Test cases for login.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
